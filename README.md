@@ -33,9 +33,6 @@
 <br />
 <br />
 
-<br />
-<br />
-
 ## GitHub Stats
 
 [![alehenestroza's GitHub stats](https://github-readme-stats.vercel.app/api?username=alehenestroza&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -43,6 +40,7 @@
 <br />
 <br />
 
-Connect with me on LinkedIn! [<img align="left" alt="alehenestroza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+Connect with me on LinkedIn!
+[<img align="left" alt="alehenestroza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/alejandro-henestroza/
