@@ -1,8 +1,7 @@
 # Hello there! I'm Ale
 
-## I'm a Full Stack Developer!
+## I'm a Software Developer!
 
--  I'm currently working on: Building my portfolio
 -  I'm currently learning: Everything I can! (But mostly Go)
 -  My 2022 Goals are: To collaborate on an Open Source Project
 -  Fun fact: I started learning to code because I wanted to become a Game Developer, but I know absolutely nothing about GameDev
