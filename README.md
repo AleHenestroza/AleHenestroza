@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer!
 
--  I'm currently learning: Everything I can! (But mostly Go)
+-  I'm currently learning: Go <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" /> and Java <img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 -  My 2022 Goals are: To collaborate on an Open Source Project
 -  Fun fact: I started learning to code because I wanted to become a Game Developer, but I know absolutely nothing about GameDev
 
