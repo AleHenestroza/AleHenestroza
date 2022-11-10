@@ -3,8 +3,8 @@
 ## <center>I'm a Software Developer!</center>
 
 -  I work as a Backend Developer @ MercadoLibre
--  I'm currently learning: Kotlin!
--  My 2022 goals are: to contribute to an Open Source project!
+-  I'm currently learning: Go!
+-  My 2022 goals are: get an AWS certification
 -  Fun fact: I started learning to code because I wanted to become a Game Developer, but I never actually learned anything about GameDev!
 
 ### <center>My toolbelt includes:</center>
