@@ -3,7 +3,7 @@
 ## <center>I'm a Software Developer!</center>
 
 -  I work as a Backend Developer @ MercadoLibre
--  I'm currently learning: Go!
+-  I'm currently learning: Test Driven Development!
 -  My 2022 goals are: get an AWS certification
 -  Fun fact: I started learning to code because I wanted to become a Game Developer, but I never actually learned anything about GameDev!
 
