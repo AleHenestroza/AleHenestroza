@@ -1,4 +1,4 @@
-# <center><img width="32px" src="https://emoji.slack-edge.com/T02AJUT0S/hello_there/d21ad0dba2696895.gif" /> Hello there! I'm Ale</center>
+<center><h1><img width="32px" src="https://emoji.slack-edge.com/T02AJUT0S/hello_there/d21ad0dba2696895.gif" /> Hello there! I'm Ale</h1></center>
 
 ## <center>I'm a Software Developer!</center>
 
