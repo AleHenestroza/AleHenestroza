@@ -3,8 +3,8 @@
 ## <center>I'm a Software Developer!</center>
 
 -  I work as a Backend Developer @ MercadoLibre
--  I'm currently learning: Test Driven Development!
--  My 2022 goals are: get an AWS certification
+-  I'm currently learning: Cloud services with AWS!
+-  My 2023 goals are: get an AWS certification
 
 ### <center>My toolbelt includes:</center>
 
