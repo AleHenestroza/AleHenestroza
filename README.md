@@ -26,10 +26,10 @@
 [<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />][docker]
 [<img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />][linux]
 
-### <center>GitHub Stats</center>
+<!-- ### <center>GitHub Stats</center>
 
 [<center>![alehenestroza's GitHub stats](https://github-readme-stats.vercel.app/api?username=alehenestroza&show_icons=true&theme=tokyonight&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)</center>][githubstats]
-
+ -->
 ### <center>Connect with me on LinkedIn!</center>
 
 [<center><img alt="alehenestroza" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></center>][linkedin]
