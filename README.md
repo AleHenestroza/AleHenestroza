@@ -1,4 +1,4 @@
-<center><h1><img width="32px" src="https://emoji.slack-edge.com/T02AJUT0S/hello_there/d21ad0dba2696895.gif" /> Hello there! I'm Ale</h1></center>
+<center><h1><img width="32px" src="https://media.tenor.com/tWYs75jv8QwAAAAM/hello-there-obi-wan-kenobi.gif" /> Hello there! I'm Ale</h1></center>
 
 ## <center>I'm a Software Developer!</center>
 
