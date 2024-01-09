@@ -1,10 +1,10 @@
 <center><h1><img width="32px" src="https://media.tenor.com/tWYs75jv8QwAAAAM/hello-there-obi-wan-kenobi.gif" /> Hello there! I'm Ale</h1></center>
 
-## <center>I'm a Software Developer!</center>
+## <center>I'm a Backend Software Engineer!</center>
 
--  I work as a Backend Developer @ MercadoLibre
+-  I work as a Backend Engineer @ Stori
 -  I'm currently learning: Cloud services with AWS!
--  My 2023 goals are: get an AWS certification
+-  My 2024 goals are: get the AWS Certified Developer Associate certification
 
 ### <center>My toolbelt includes:</center>
 
